@@ -1,0 +1,4 @@
+.checkbox{margin-top:-10px !important}
+.wizard > .steps .done a, .wizard > .steps .done a:hover, .wizard > .steps .done a:active{
+    background-color: #1b84e7;
+}

@@ -1,0 +1,27 @@
+.advanced-options-container{
+    display: block
+}
+.advanced-options-anchor{
+cursor: pointer;
+}
+.header-text-container{
+    text-align: center;
+}
+
+.tagline-text-container{
+    text-align: center;
+}
+.tagline-text{
+    max-width: 600px; margin:0px auto
+}
+.search-bar-container{
+    max-width: 800px; margin:0px auto; border: solid 1px #ccc; padding: 5px 0px 5px;
+}
+
+.search-bar{
+    border: none
+}
+
+.advanced-options-body{
+    max-width: 800px; margin:0px auto;
+}

@@ -1,0 +1,813 @@
+.sales .row {
+    margin-bottom: 0px;
+}
+
+.report-header h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.card {
+    display: block;
+}
+
+.report-header button {
+
+    padding: 0px 10px 0px 10px;
+
+}
+
+.report-header .global-refresh-btn {
+    padding: 4px 10px 0px 10px;
+    font-size: 16px
+}
+
+hr {
+    margin-top: 0rem;
+    margin-bottom: 0.7rem;
+}
+
+.card-sales {
+    padding: 0px 15px;
+}
+
+.tx-success.change,
+.tx-danger.change {
+    font-size: 10px;
+}
+
+.health-score {
+    color: green;
+    font-size: 25px;
+    font-weight: 800
+}
+
+
+
+
+
+.accordion-one .card-header a.collapsed::before {
+    content: '';
+}
+
+.accordion-one .card-header a::before {
+    content: '';
+
+}
+
+
+
+
+.accordion-two-primary .card {
+    border-color: #badaf9;
+    background-color: #fff;
+}
+
+.accordion-two-primary .card-header a.collapsed {
+    background-color: #fff;
+
+}
+
+.issue-side-details h5 {
+    color: black
+}
+
+
+.quickstats label {
+    margin-top: 0px;
+    padding-top: 0px
+}
+
+
+
+.quickstats .stat-main {
+    font-size: 20px !important;
+    margin-bottom: 0px !important;
+}
+
+.card-sales .row .col p.sub-stat {
+    font-size: 12px !important;
+}
+
+.card-sales .row .col p.sub-stat span.right {
+    float: right;
+    color: black;
+    font-weight: 700
+}
+
+.sub-stat-child {
+    display: block;
+    color: #666;
+    font-weight: 500
+}
+
+@media (min-width: 480px) {
+    .list-group-user .user-name-address {
+        margin-left: 0px;
+        margin-top: 0;
+    }
+}
+
+.sub-stat-child .right span {
+    font-weight: 500
+}
+
+.card-header-tabs .nav-link {
+    height: 35px;
+    color: #333;
+}
+
+.accordion-one .card-header a {
+
+    padding: 10px 20px;
+}
+
+.accordion-one .card-header a:hover,
+.accordion-one .card-header a:focus {
+    color: #343a40 !important;
+}
+
+.accordion-list .count {
+    float: right;
+    color: #999;
+    font-weight: 400
+}
+
+.issue-severity {
+    float: right
+}
+
+.issue-list .card-header {
+    padding: 0px 0px !important;
+}
+
+.quickstats .stat-main {
+    font-weight: 900
+}
+
+.quickstats .stat-main span.change {
+    font-weight: 900;
+    font-size: 11px
+}
+
+.list-group-user .list-group-item {
+    padding: 0.4rem 0.5rem 0.3rem 0.5rem;
+}
+
+.list-group-user .user-name-address {
+    font-size: 12px;
+}
+
+.verdict {
+
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.issue-info-header {
+    padding-top: 20px;
+}
+
+.sk-rotating-plane {
+    width: 30px;
+    height: 30px;
+    margin: 0px auto;
+    background-color: #1b84e7
+}
+
+.sk-rotating-plane.project-header {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+
+.project-menu-container {
+    padding-right: 0px
+}
+
+.project-menu p {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.project-menu .btn-group .btn {
+    padding: 2px 8px
+}
+
+.project-menu {
+    text-align: right;
+}
+
+.project-header {
+    border-bottom: solid 1px #ced4da;
+    margin-bottom: 0px !important;
+}
+
+.overall-score p.stat-main {
+    font-size: 40px !important;
+    text-align: center
+}
+
+.page-speed p.stat-main {
+    font-size: 40px !important;
+    text-align: center
+}
+
+
+.project-title {
+    display: inline-block !important
+}
+
+.card .details {
+    margin-bottom: 15px
+}
+
+.card-sales .row {
+    margin-bottom: 0px;
+}
+
+.tracker thead>tr>th {
+    border-top: 1px solid #dee2e6 !important;
+    border-bottom: 1px solid #dee2e6;
+    font-weight: 700;
+    text-transform: none;
+    background-color: white;
+    color: #343a40;
+
+}
+
+.tracker th,
+.tracker td {
+    text-align: center
+}
+
+.tracker thead th,
+.tracker td {
+    vertical-align: top;
+    padding: 0.75rem 0.75rem 0.35rem
+}
+
+
+.tracker .left {
+    text-align: left
+}
+
+.card-header-tabs .nav-link.active {
+    border-top-color: #fff;
+}
+
+
+
+
+.issues_header_container {
+    text-align: center;
+    width: 600px;
+    margin: 0px auto 20px
+}
+
+.issue-page-status {
+    display: inline-block;
+}
+
+.issue-page-status-div {
+    width: 10px !important;
+    height: 13px !important;
+    display: inline-block;
+    margin-left: 5px
+}
+
+.ckbox {
+    margin-bottom: 0px !important;
+}
+
+.user-name-address {
+    width: 100%
+}
+
+.user-name-address .link {
+    display: inline-block;
+}
+
+
+
+.btn-radius {
+    border-radius: 3px;
+}
+
+.list-group-user .user-name-address p {
+    font-weight: 400
+}
+
+.issue-link-options button {
+    padding: 5px 8px 5px 8px;
+    margin: auto 0px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+.issue-link-options {
+    display: inline-block;
+
+}
+
+span.issue-link-options.top-url {
+    margin-top: 0px;
+}
+
+
+
+.accordion-one .card-header a {
+    color: #343a40
+}
+
+.badge {
+    display: inline-block;
+    margin: 0px;
+    font-weight: 800;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color:
+        transparent;
+    padding: 0.24rem 0.4rem 0.18rem 0.4rem;
+    margin-right: 5px;
+
+    border-radius: 3px;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#issues .card-dash-one .row > div{
+    padding: 10px 20px
+}
+
+
+.issue-list .ckbox span::after {
+    background-color: #3b3d3e;
+}
+
+.issue-list .btn-outline-primary {
+    color:
+        #3b3d3e;
+    border-color:
+        #3b3d3e;
+}
+
+.issue-list .btn-outline-primary:hover {
+    color: #fff;
+    background-color: #3b3d3e;
+    border-color: #3b3d3e;
+}
+
+
+.issue-list .btn-outline-primary:not(:disabled):not(.disabled):active,
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.show>.btn-outline-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #3b3d3e;
+    border-color: #3b3d3e;
+}
+
+
+.issue-list .btn-outline-primary:not(:disabled):not(.disabled):active:focus,
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus,
+.show>.btn-outline-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem #3b3d3e;
+
+}
+
+.accordion-one .card-header a.collapsed {
+    background-color: white;
+}
+
+.accordion-one .card-header {
+    font-weight: normal
+}
+
+
+
+.fail-issue-url-header td {
+    border-bottom: solid 1px #ced4da;
+    padding: 5px 0px 5px 10px;
+}
+
+.fail-issue-url-header td.url {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.fail-issue-url-header a,
+.issue-desc-list a {
+    color: #333;
+}
+
+.fail-issue-url-header a {
+    color: #333;
+}
+
+.issue-desc-list a.ignored {
+    color: #333;
+}
+
+.issue-desc-list a.fixed,
+a.issue-fixed,
+a.issue-ignored {
+    color: #333;
+}
+
+
+
+.issue-options {
+    text-align: right;
+}
+
+.fail-issue-url-header td.issue-options {
+    padding-right: 8px;
+}
+
+.issue-table {
+    width: 100%;
+}
+
+.issue-table td.checkbox {
+    width: 10px;
+}
+
+.issue-desc-container {
+    padding: 5px 5px 5px 15px;
+    margin-left: 35px;
+    color: #495057;
+    border-width: 0 0 1px 0;
+}
+
+.issue-desc-container.table-container {
+    padding: 0px 2px 0px 10px;
+    margin-left: 23px;
+    color: #495057;
+}
+
+li.issue-line .issue-desc-container:last-child {
+    border-bottom: none;
+    margin-bottom: none;
+}
+
+
+.issue-desc-list tr td,
+.issue-desc-list th {
+    padding: 0.3rem;
+}
+
+.issue-desc-list thead tr:first-child th {
+    border-top: none;
+}
+
+.issue-desc-list tbody tr:last-child td,
+.issue-desc-list tbody tr:last-child th {
+    border-bottom: none;
+
+}
+
+.issue-desc-list tbody tr td:last-child,
+.issue-desc-list thead tr th:last-child {
+    border-right: none;
+
+}
+
+.issue-overview-footer .pagination .disabled {
+    background-color: #ced4da !important;
+}
+
+.issue-desc-list tbody tr td:last-child,
+.issue-desc-list tbody tr th:first-child,
+.issue-desc-list thead tr th:first-child,
+.issue-desc-list thead tr th:last-child {
+    text-align: center;
+}
+
+.line-button {
+    width: 70px;
+    padding: 0px 2px 0px 2px !important;
+    line-height: 1.4;
+}
+
+.accordion-one .card-header,
+.accordion-one .card-header a.collapsed,
+.all-issue-option {
+    background-color: #f7f7f7;
+}
+
+.italics {
+    font-style: italic;
+}
+
+div.critical-issues-container,
+div.critical-issues-container h1 {
+    color: #dc3545 !important;
+}
+
+div.info-issues-container,
+div.info-issues-container h1 {
+    color: #F49917 !important;
+}
+
+div.notice-issues-container,
+div.notice-issues-container h1 {
+    color: #6c757d !important;
+}
+
+
+.tag-modal .rdiobox span {
+    padding-left: 0px;
+}
+
+
+#issues-table td {
+    padding: 0.3rem;
+}
+
+#issues-table td,
+#issues-table th {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#issues-table th {
+    font-size: 11px !important;
+}
+
+.url-tag.option{
+    border-radius: 20px;
+    text-align: center;
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-right: 5px;
+}
+.url-tag.success{
+    border: solid 1px #23BF08;
+    color: #1c9806;
+    
+}
+
+.url-tag.success:hover{
+    cursor: pointer;
+    background-color: #1c9806;
+    color: white
+    
+}
+
+.url-tag.danger{
+    border: solid 1px #dc3545;
+    color: #dc3545;
+    
+}
+
+.url-tag.warning{
+    border: solid 1px #F49917;
+    color: #F49917;
+    
+}
+
+.url-tag.info{
+    border: solid 1px #5B93D3;
+    color: #5B93D3;
+    
+}
+
+.url-tag.indigo{
+    border: solid 1px #6610f2;
+    color: #6610f2;
+    
+}
+
+.url-tag.purple{
+    border: solid 1px #6f42c1;
+    color: #6f42c1;
+    
+}
+
+.url-tag.orange{
+    border: solid 1px #f27510;
+    color:#f27510;
+    
+}
+
+.url-tag.pink{
+    border: solid 1px #e83e8c;
+    color: #e83e8c;
+    
+}
+
+.url-tag.teal{
+    border: solid 1px #1CAF9A;
+    color: #1CAF9A;
+    
+}
+
+.url-tag.dark{
+    border: solid 1px #343a40;
+    color: #343a40;
+    
+}
+.url-tag.black{
+    border: solid 1px #000;
+    color: #000;
+    
+}
+
+
+#issues-table tr {
+    line-height: 0.6;
+}
+
+#issues-table thead tr th:nth-child(2) {
+    line-height: 0.4;
+    padding-left: 5px;
+}
+
+
+
+.issue-count-btn {
+    width: 50px;
+    font-size: 0.76563rem !important;
+    display: inline-block;
+}
+
+#issues-table tr:nth-child(even) {
+    background: #f8f9fa;
+}
+
+.pagination .page-item .page-link {
+
+    padding: 5px 10px;
+
+    height: auto;
+
+
+}
+
+.each-page-issues-list li {
+    padding: 5px 8px;
+}
+
+h1.project-rank {
+    color: #23BF08;
+    font-size: 62px;
+    text-align: center;
+}
+
+.tag-modal .list-group-item{
+    padding: 0.35rem 0.75rem 0.15rem 0.75rem;
+    border: none;
+}
+
+
+
+/** OVERVIEW POP **/
+
+.list-group-item.issue-line:hover {
+    color: #1b84e7;
+}
+
+
+
+
+/**GLOBAL */
+body {
+    color: #333;
+    font-family: fa5-proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.block {
+    display: block;
+}
+
+.in-block {
+    display: inline-block;
+}
+
+.inline {
+    display: inline;
+}
+
+.mark {
+    color: red;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.btn-type {
+    cursor: pointer
+}
+
+.fas {
+    display: inline-block;
+
+    font-size: 14px !important;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.mg-t-2 {
+    margin-top: 4px
+}
+
+.pd-t-1 {
+    padding-top: 1px
+}
+
+.custom-button {
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: rgb(228, 228, 228);
+}
+
+.no-border {
+    border: none;
+}
+
+.bd-r-0 {
+    border-right: 0px !important;
+}
+
+.fl-right {
+    float: right;
+}
+
+.bd-l-1 {
+    border-left: solid 1px rgba(0, 0, 0, 0.125);
+}
+
+
+
+.lh-2-5 {
+    line-height: 2.5;
+}
+
+.wd-85 {
+    width: 85px;
+}
+
+.hide {
+    display: none;
+}
+
+.table-responsive div.alert {
+    padding: 0.15rem 1.2rem 0.15rem 1.2rem;
+
+    border-radius: 10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    display: inline-block;
+
+}
+
+
+.modal .modal-header {
+    padding: 10px 15px 5px 15px;
+    align-items: center;
+}
+
+.modal-header .close {
+    padding: 0px 1rem;
+    margin: -1.3rem -1rem -1rem auto;
+}
+
+@supports (-moz-appearance:none) {
+    .table-responsive div.alert {
+        padding: 0.25rem 1.2rem 0.08rem 1.2rem;
+    }
+
+    .report-header button {
+        padding: 3px 10px 0px 10px;
+    }
+}
+
+.modal-body{
+    padding:0px
+}
